@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c5f5f2e880ab768c7f5575590648f62",
+    "revision": "b51322555637e7c97260a20d51995b2b",
     "url": "/axiospic/index.html"
   },
   {
-    "revision": "ec59443e157552dd4386",
-    "url": "/axiospic/static/css/main.40d779a7.chunk.css"
+    "revision": "37875719db7d6eac22bb",
+    "url": "/axiospic/static/css/main.55f567e4.chunk.css"
   },
   {
     "revision": "ae0cda2d0a4a41ef73f6",
     "url": "/axiospic/static/js/2.409bc2c9.chunk.js"
   },
   {
-    "revision": "ec59443e157552dd4386",
-    "url": "/axiospic/static/js/main.a5a89916.chunk.js"
+    "revision": "37875719db7d6eac22bb",
+    "url": "/axiospic/static/js/main.e504c6a3.chunk.js"
   },
   {
     "revision": "481b287eae31c6f54d07",

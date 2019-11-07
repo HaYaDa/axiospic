@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/axiospic/static/css/main.40d779a7.chunk.css",
-    "main.js": "/axiospic/static/js/main.a5a89916.chunk.js",
-    "main.js.map": "/axiospic/static/js/main.a5a89916.chunk.js.map",
+    "main.css": "/axiospic/static/css/main.55f567e4.chunk.css",
+    "main.js": "/axiospic/static/js/main.e504c6a3.chunk.js",
+    "main.js.map": "/axiospic/static/js/main.e504c6a3.chunk.js.map",
     "runtime-main.js": "/axiospic/static/js/runtime-main.a29f6d41.js",
     "runtime-main.js.map": "/axiospic/static/js/runtime-main.a29f6d41.js.map",
     "static/js/2.409bc2c9.chunk.js": "/axiospic/static/js/2.409bc2c9.chunk.js",
     "static/js/2.409bc2c9.chunk.js.map": "/axiospic/static/js/2.409bc2c9.chunk.js.map",
     "index.html": "/axiospic/index.html",
-    "precache-manifest.c0a220297b5f8c023b446c68f85b797f.js": "/axiospic/precache-manifest.c0a220297b5f8c023b446c68f85b797f.js",
+    "precache-manifest.47e48270cc408991c1e91eb9c2db851e.js": "/axiospic/precache-manifest.47e48270cc408991c1e91eb9c2db851e.js",
     "service-worker.js": "/axiospic/service-worker.js",
-    "static/css/main.40d779a7.chunk.css.map": "/axiospic/static/css/main.40d779a7.chunk.css.map"
+    "static/css/main.55f567e4.chunk.css.map": "/axiospic/static/css/main.55f567e4.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a29f6d41.js",
     "static/js/2.409bc2c9.chunk.js",
-    "static/css/main.40d779a7.chunk.css",
-    "static/js/main.a5a89916.chunk.js"
+    "static/css/main.55f567e4.chunk.css",
+    "static/js/main.e504c6a3.chunk.js"
   ]
 }
