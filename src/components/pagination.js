@@ -1,6 +1,6 @@
 import React from 'react'; 
 
-const Pagination = ({picsPerPage, totalPics, paginate, backPagin, forPagin}) => {
+const Pagination = ({picsPerPage, totalPics, paginate, changePage}) => {
     const pageNumbers = []; 
 
     for (let i = 1; i <= Math.ceil(totalPics / picsPerPage); i++){
@@ -9,9 +9,10 @@ const Pagination = ({picsPerPage, totalPics, paginate, backPagin, forPagin}) => 
     return (
         <nav aria-label="Page navigation">
             <ul className="pagination justify-content-center">
-                <li className="page-item">
+                <li className="page-item" onClick={changePage}>
                     <a 
-                    onClick={() =>backPagin()}
+                    name="dec"
+                    
                     className="page-link" 
                     href="!#" tabIndex="-1" aria-disabled="true"
                     >Previous</a>
@@ -27,7 +28,8 @@ const Pagination = ({picsPerPage, totalPics, paginate, backPagin, forPagin}) => 
                 <li className="page-item">
                     
                     <a 
-                        onClick={() =>forPagin()}
+                        onClick={changePage}
+                        name="inc"
                         className="page-link" href="!#">Next</a>
                 </li>
             </ul>
